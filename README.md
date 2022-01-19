@@ -3,6 +3,8 @@
 ### What Vrms is
 Vrms stands for Velocity root-mean-square. It is the velocity of molecules in a gas <br/>
 
+It is the kinetic molecular theory.
+
 ### Formula
 
 ![](formula.png)
